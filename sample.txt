@@ -1,0 +1,5 @@
+Hi {name},
+Welcome! Do you like our product?
+
+Regards,
+Kay

@@ -1,0 +1,1867 @@
+{
+	"id": "698178fb-a83d-46ba-9ae3-21c079ca498e",
+	"name": "feishu",
+	"nodes": [],
+	"locators": [
+		{
+			"id": "ccb93496-a7b2-49dd-ab45-265060bcfaf9",
+			"name": "mailbutton",
+			"filePath": "7e242cdb-0cf5-42cf-87a8-f8ab06313db4.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "pane"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "飞书"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"automationId": {
+										"value": "",
+										"excluded": true
+									},
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "pane"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "",
+										"excluded": true
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "ContentsView"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "pane"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "",
+												"excluded": true
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "",
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"automationId": {
+														"value": "",
+														"excluded": true
+													},
+													"isPassword": {
+														"value": "False",
+														"excluded": true
+													},
+													"orientation": {
+														"value": "None",
+														"excluded": true
+													},
+													"role": {
+														"value": "pane"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"className": {
+														"value": "",
+														"excluded": true
+													},
+													"controlMetaType": "Uia",
+													"name": {
+														"value": "ClientView"
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"automationId": {
+																"value": "",
+																"excluded": true
+															},
+															"isPassword": {
+																"value": "False",
+																"excluded": true
+															},
+															"orientation": {
+																"value": "None",
+																"excluded": true
+															},
+															"role": {
+																"value": "pane"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"className": {
+																"value": "",
+																"excluded": true
+															},
+															"controlMetaType": "Uia",
+															"name": {
+																"value": "BrowserView"
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"automationId": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"isPassword": {
+																		"value": "False",
+																		"excluded": true
+																	},
+																	"orientation": {
+																		"value": "None",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "pane"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"className": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"controlMetaType": "Uia",
+																	"name": {
+																		"value": "SideBarView"
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"automationId": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"isPassword": {
+																				"value": "False",
+																				"excluded": true
+																			},
+																			"orientation": {
+																				"value": "None",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "pane"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"className": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"controlMetaType": "Uia",
+																			"name": {
+																				"value": "TabBarView"
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [
+																			{
+																				"identifier": {
+																					"automationId": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"isPassword": {
+																						"value": "False",
+																						"excluded": true
+																					},
+																					"orientation": {
+																						"value": "None",
+																						"excluded": true
+																					},
+																					"role": {
+																						"value": "button"
+																					},
+																					"isDirectChild": {
+																						"value": "True"
+																					},
+																					"className": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"controlMetaType": "Uia",
+																					"name": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"index": {
+																						"value": "6"
+																					}
+																				}
+																			}
+																		]
+																	}
+																]
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "17517337-9b9e-4a2d-9171-37b7b4e91301",
+			"name": "newmailbutton",
+			"filePath": "979b5abf-7a05-4f4f-9c70-18abc48a6c78.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "pane"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "飞书"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "document"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "Chrome_RenderWidgetHostHWND"
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "mail"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "button"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "",
+												"excluded": true
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "写邮件"
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"id": "dd3b94d4-dea7-455a-ab3a-87a917b67f58",
+			"name": "title_text",
+			"filePath": "8f2c47bc-eba1-4af5-9c4a-54affcb8705a.jpg",
+			"content": {
+				"automationType": "IA",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"accessKey": {
+								"excluded": true
+							},
+							"tag": {
+								"value": "",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "IA",
+							"name": {
+								"value": "新邮件"
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"accessKey": {
+										"excluded": true
+									},
+									"tag": {
+										"value": "",
+										"excluded": true
+									},
+									"role": {
+										"value": "document"
+									},
+									"isDirectChild": {
+										"value": "False",
+										"excluded": true
+									},
+									"controlMetaType": "IA",
+									"name": {
+										"value": "MessageEditor"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"accessKey": {
+												"excluded": true
+											},
+											"tag": {
+												"value": "",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"controlMetaType": "IA",
+											"name": {
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"accessKey": {
+														"excluded": true
+													},
+													"tag": {
+														"value": "",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"controlMetaType": "IA",
+													"name": {
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"accessKey": {
+																"excluded": true
+															},
+															"tag": {
+																"value": "",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"controlMetaType": "IA",
+															"name": {
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"accessKey": {
+																		"excluded": true
+																	},
+																	"tag": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"controlMetaType": "IA",
+																	"name": {
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"accessKey": {
+																				"excluded": true
+																			},
+																			"tag": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "group"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"controlMetaType": "IA",
+																			"name": {
+																				"value": "发件人： * 密送 分别发送*"
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [
+																			{
+																				"identifier": {
+																					"accessKey": {
+																						"excluded": true
+																					},
+																					"tag": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"role": {
+																						"value": "edit"
+																					},
+																					"isDirectChild": {
+																						"value": "False",
+																						"excluded": true
+																					},
+																					"className": {
+																						"value": "Chrome_WidgetWin_0"
+																					},
+																					"controlMetaType": "IA",
+																					"name": {
+																						"value": "主题："
+																					}
+																				},
+																				"childControls": [],
+																				"excluded": false
+																			}
+																		],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				]
+			}
+		},
+		{
+			"id": "fe0c42d3-159d-4550-a052-9d21ce30e5b6",
+			"name": "edit_ia",
+			"filePath": "972d8bb8-4d5c-4045-8c69-37b32752e0c3.jpg",
+			"content": {
+				"automationType": "IA",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"accessKey": {
+								"excluded": true
+							},
+							"tag": {
+								"value": "",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "IA",
+							"name": {
+								"value": "新邮件"
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"accessKey": {
+										"excluded": true
+									},
+									"tag": {
+										"value": "",
+										"excluded": true
+									},
+									"role": {
+										"value": "document"
+									},
+									"isDirectChild": {
+										"value": "False",
+										"excluded": true
+									},
+									"controlMetaType": "IA",
+									"name": {
+										"value": "MessageEditor"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"accessKey": {
+												"excluded": true
+											},
+											"tag": {
+												"value": "",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"controlMetaType": "IA",
+											"name": {
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"accessKey": {
+														"excluded": true
+													},
+													"tag": {
+														"value": "",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"controlMetaType": "IA",
+													"name": {
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"accessKey": {
+																"excluded": true
+															},
+															"tag": {
+																"value": "",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"controlMetaType": "IA",
+															"name": {
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"accessKey": {
+																		"excluded": true
+																	},
+																	"tag": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"controlMetaType": "IA",
+																	"name": {
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"accessKey": {
+																				"excluded": true
+																			},
+																			"tag": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "group"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"controlMetaType": "IA",
+																			"name": {
+																				"value": "发件人*密送 分别发送*"
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [
+																			{
+																				"identifier": {
+																					"accessKey": {
+																						"excluded": true
+																					},
+																					"tag": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"role": {
+																						"value": "group"
+																					},
+																					"isDirectChild": {
+																						"value": "True"
+																					},
+																					"controlMetaType": "IA",
+																					"name": {
+																						"excluded": true
+																					},
+																					"index": {
+																						"value": "2"
+																					}
+																				},
+																				"childControls": [
+																					{
+																						"identifier": {
+																							"accessKey": {
+																								"excluded": true
+																							},
+																							"tag": {
+																								"value": "",
+																								"excluded": true
+																							},
+																							"role": {
+																								"value": "group"
+																							},
+																							"isDirectChild": {
+																								"value": "True"
+																							},
+																							"controlMetaType": "IA",
+																							"name": {
+																								"excluded": true
+																							},
+																							"index": {
+																								"value": "1",
+																								"excluded": true
+																							}
+																						},
+																						"childControls": [
+																							{
+																								"identifier": {
+																									"accessKey": {
+																										"excluded": true
+																									},
+																									"tag": {
+																										"value": "",
+																										"excluded": true
+																									},
+																									"role": {
+																										"value": "group"
+																									},
+																									"isDirectChild": {
+																										"value": "True"
+																									},
+																									"controlMetaType": "IA",
+																									"name": {
+																										"excluded": true
+																									},
+																									"index": {
+																										"value": "1",
+																										"excluded": true
+																									}
+																								},
+																								"childControls": [
+																									{
+																										"identifier": {
+																											"accessKey": {
+																												"excluded": true
+																											},
+																											"tag": {
+																												"value": "",
+																												"excluded": true
+																											},
+																											"role": {
+																												"value": "group"
+																											},
+																											"isDirectChild": {
+																												"value": "True"
+																											},
+																											"controlMetaType": "IA",
+																											"name": {
+																												"excluded": true
+																											},
+																											"index": {
+																												"value": "2"
+																											}
+																										},
+																										"childControls": [
+																											{
+																												"identifier": {
+																													"accessKey": {
+																														"excluded": true
+																													},
+																													"tag": {
+																														"value": "",
+																														"excluded": true
+																													},
+																													"role": {
+																														"value": "edit"
+																													},
+																													"isDirectChild": {
+																														"value": "False",
+																														"excluded": true
+																													},
+																													"className": {
+																														"value": "Chrome_WidgetWin_0"
+																													},
+																													"controlMetaType": "IA",
+																													"name": {
+																														"value": "收件人："
+																													}
+																												},
+																												"childControls": [],
+																												"excluded": false
+																											}
+																										],
+																										"excluded": false
+																									}
+																								],
+																								"excluded": false
+																							}
+																						],
+																						"excluded": false
+																					}
+																				],
+																				"excluded": false
+																			}
+																		],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				]
+			}
+		},
+		{
+			"id": "7406a6d8-cbe3-4f8a-ba61-5ec1369d5c76",
+			"name": "content_ia",
+			"filePath": "f094a952-7a9e-4a32-9653-18606ab34ff4.jpg",
+			"content": {
+				"automationType": "IA",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"accessKey": {
+								"excluded": true
+							},
+							"tag": {
+								"value": "",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "IA",
+							"name": {
+								"value": "Welcome to Clicknium"
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"accessKey": {
+										"excluded": true
+									},
+									"tag": {
+										"value": "",
+										"excluded": true
+									},
+									"role": {
+										"value": "document"
+									},
+									"isDirectChild": {
+										"value": "False",
+										"excluded": true
+									},
+									"controlMetaType": "IA",
+									"name": {
+										"value": "MessageEditor"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"accessKey": {
+												"excluded": true
+											},
+											"tag": {
+												"value": "",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"controlMetaType": "IA",
+											"name": {
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"accessKey": {
+														"excluded": true
+													},
+													"tag": {
+														"value": "",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"controlMetaType": "IA",
+													"name": {
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"accessKey": {
+																"excluded": true
+															},
+															"tag": {
+																"value": "",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"controlMetaType": "IA",
+															"name": {
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"accessKey": {
+																		"excluded": true
+																	},
+																	"tag": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"controlMetaType": "IA",
+																	"name": {
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"accessKey": {
+																				"excluded": true
+																			},
+																			"tag": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "group"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"controlMetaType": "IA",
+																			"name": {
+																				"value": "发件人： * 密送 分别发送*"
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [
+																			{
+																				"identifier": {
+																					"accessKey": {
+																						"excluded": true
+																					},
+																					"tag": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"role": {
+																						"value": "group"
+																					},
+																					"isDirectChild": {
+																						"value": "True"
+																					},
+																					"controlMetaType": "IA",
+																					"name": {
+																						"excluded": true
+																					},
+																					"index": {
+																						"value": "4"
+																					}
+																				},
+																				"childControls": [
+																					{
+																						"identifier": {
+																							"accessKey": {
+																								"excluded": true
+																							},
+																							"tag": {
+																								"value": "",
+																								"excluded": true
+																							},
+																							"role": {
+																								"value": "group"
+																							},
+																							"isDirectChild": {
+																								"value": "True"
+																							},
+																							"controlMetaType": "IA",
+																							"name": {
+																								"excluded": true
+																							},
+																							"index": {
+																								"value": "1",
+																								"excluded": true
+																							}
+																						},
+																						"childControls": [
+																							{
+																								"identifier": {
+																									"accessKey": {
+																										"excluded": true
+																									},
+																									"tag": {
+																										"value": "",
+																										"excluded": true
+																									},
+																									"role": {
+																										"value": "group"
+																									},
+																									"isDirectChild": {
+																										"value": "True"
+																									},
+																									"controlMetaType": "IA",
+																									"name": {
+																										"excluded": true
+																									},
+																									"index": {
+																										"value": "2"
+																									}
+																								},
+																								"childControls": [
+																									{
+																										"identifier": {
+																											"accessKey": {
+																												"excluded": true
+																											},
+																											"tag": {
+																												"value": "",
+																												"excluded": true
+																											},
+																											"role": {
+																												"value": "group"
+																											},
+																											"isDirectChild": {
+																												"value": "True"
+																											},
+																											"controlMetaType": "IA",
+																											"name": {
+																												"excluded": true
+																											},
+																											"index": {
+																												"value": "1",
+																												"excluded": true
+																											}
+																										},
+																										"childControls": [
+																											{
+																												"identifier": {
+																													"accessKey": {
+																														"excluded": true
+																													},
+																													"tag": {
+																														"value": "",
+																														"excluded": true
+																													},
+																													"role": {
+																														"value": "group"
+																													},
+																													"isDirectChild": {
+																														"value": "True"
+																													},
+																													"controlMetaType": "IA",
+																													"name": {
+																														"excluded": true
+																													},
+																													"index": {
+																														"value": "1",
+																														"excluded": true
+																													}
+																												},
+																												"childControls": [
+																													{
+																														"identifier": {
+																															"accessKey": {
+																																"excluded": true
+																															},
+																															"tag": {
+																																"value": "",
+																																"excluded": true
+																															},
+																															"role": {
+																																"value": "group"
+																															},
+																															"isDirectChild": {
+																																"value": "True"
+																															},
+																															"controlMetaType": "IA",
+																															"name": {
+																																"excluded": true
+																															},
+																															"index": {
+																																"value": "1",
+																																"excluded": true
+																															}
+																														},
+																														"childControls": [
+																															{
+																																"identifier": {
+																																	"accessKey": {
+																																		"excluded": true
+																																	},
+																																	"tag": {
+																																		"value": "",
+																																		"excluded": true
+																																	},
+																																	"role": {
+																																		"value": "group"
+																																	},
+																																	"isDirectChild": {
+																																		"value": "True"
+																																	},
+																																	"controlMetaType": "IA",
+																																	"name": {
+																																		"excluded": true
+																																	},
+																																	"index": {
+																																		"value": "2"
+																																	}
+																																},
+																																"childControls": [
+																																	{
+																																		"identifier": {
+																																			"accessKey": {
+																																				"excluded": true
+																																			},
+																																			"tag": {
+																																				"value": "",
+																																				"excluded": true
+																																			},
+																																			"role": {
+																																				"value": "group"
+																																			},
+																																			"isDirectChild": {
+																																				"value": "False",
+																																				"excluded": true
+																																			},
+																																			"className": {
+																																				"value": "Chrome_WidgetWin_0"
+																																			},
+																																			"controlMetaType": "IA",
+																																			"name": {
+																																				"excluded": true
+																																			}
+																																		},
+																																		"childControls": [],
+																																		"excluded": false
+																																	}
+																																],
+																																"excluded": false
+																															}
+																														],
+																														"excluded": false
+																													}
+																												],
+																												"excluded": false
+																											}
+																										],
+																										"excluded": false
+																									}
+																								],
+																								"excluded": false
+																							}
+																						],
+																						"excluded": false
+																					}
+																				],
+																				"excluded": false
+																			}
+																		],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				]
+			}
+		},
+		{
+			"id": "e18bb814-c6bc-4849-9d5f-b28bb320d59c",
+			"name": "send_button",
+			"filePath": "4d77805b-92fb-46eb-8575-1bf9ee3c73a2.jpg",
+			"content": {
+				"automationType": "IA",
+				"processName": {
+					"value": "Feishu"
+				},
+				"filePath": {
+					"value": "Feishu.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"accessKey": {
+								"excluded": true
+							},
+							"tag": {
+								"value": "",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "Chrome_WidgetWin_0"
+							},
+							"controlMetaType": "IA",
+							"name": {
+								"value": "Welcome to Clicknium"
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"accessKey": {
+										"excluded": true
+									},
+									"tag": {
+										"value": "",
+										"excluded": true
+									},
+									"role": {
+										"value": "document"
+									},
+									"isDirectChild": {
+										"value": "False",
+										"excluded": true
+									},
+									"controlMetaType": "IA",
+									"name": {
+										"value": "MessageEditor"
+									},
+									"index": {
+										"value": "1",
+										"excluded": true
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"accessKey": {
+												"excluded": true
+											},
+											"tag": {
+												"value": "",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"controlMetaType": "IA",
+											"name": {
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"accessKey": {
+														"excluded": true
+													},
+													"tag": {
+														"value": "",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"controlMetaType": "IA",
+													"name": {
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"accessKey": {
+																"excluded": true
+															},
+															"tag": {
+																"value": "",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"controlMetaType": "IA",
+															"name": {
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"accessKey": {
+																		"excluded": true
+																	},
+																	"tag": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"controlMetaType": "IA",
+																	"name": {
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"accessKey": {
+																				"excluded": true
+																			},
+																			"tag": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "group"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"controlMetaType": "IA",
+																			"name": {
+																				"value": "发件人： * 密送 分别发送 收件人： * 抄送： 主题： * ​ ​ ​"
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [
+																			{
+																				"identifier": {
+																					"accessKey": {
+																						"excluded": true
+																					},
+																					"tag": {
+																						"value": "",
+																						"excluded": true
+																					},
+																					"role": {
+																						"value": "group"
+																					},
+																					"isDirectChild": {
+																						"value": "True"
+																					},
+																					"controlMetaType": "IA",
+																					"name": {
+																						"excluded": true
+																					},
+																					"index": {
+																						"value": "4"
+																					}
+																				},
+																				"childControls": [
+																					{
+																						"identifier": {
+																							"accessKey": {
+																								"excluded": true
+																							},
+																							"tag": {
+																								"value": "",
+																								"excluded": true
+																							},
+																							"role": {
+																								"value": "group"
+																							},
+																							"isDirectChild": {
+																								"value": "True"
+																							},
+																							"controlMetaType": "IA",
+																							"name": {
+																								"excluded": true
+																							},
+																							"index": {
+																								"value": "2"
+																							}
+																						},
+																						"childControls": [
+																							{
+																								"identifier": {
+																									"accessKey": {
+																										"excluded": true
+																									},
+																									"tag": {
+																										"value": "",
+																										"excluded": true
+																									},
+																									"role": {
+																										"value": "group"
+																									},
+																									"isDirectChild": {
+																										"value": "True"
+																									},
+																									"controlMetaType": "IA",
+																									"name": {
+																										"excluded": true
+																									},
+																									"index": {
+																										"value": "1",
+																										"excluded": true
+																									}
+																								},
+																								"childControls": [
+																									{
+																										"identifier": {
+																											"accessKey": {
+																												"excluded": true
+																											},
+																											"tag": {
+																												"value": "",
+																												"excluded": true
+																											},
+																											"role": {
+																												"value": "group"
+																											},
+																											"isDirectChild": {
+																												"value": "True"
+																											},
+																											"controlMetaType": "IA",
+																											"name": {
+																												"excluded": true
+																											},
+																											"index": {
+																												"value": "1",
+																												"excluded": true
+																											}
+																										},
+																										"childControls": [
+																											{
+																												"identifier": {
+																													"accessKey": {
+																														"excluded": true
+																													},
+																													"tag": {
+																														"value": "",
+																														"excluded": true
+																													},
+																													"role": {
+																														"value": "group"
+																													},
+																													"isDirectChild": {
+																														"value": "True"
+																													},
+																													"controlMetaType": "IA",
+																													"name": {
+																														"excluded": true
+																													},
+																													"index": {
+																														"value": "2"
+																													}
+																												},
+																												"childControls": [
+																													{
+																														"identifier": {
+																															"accessKey": {
+																																"excluded": true
+																															},
+																															"tag": {
+																																"value": "",
+																																"excluded": true
+																															},
+																															"role": {
+																																"value": "button"
+																															},
+																															"isDirectChild": {
+																																"value": "True"
+																															},
+																															"controlMetaType": "IA",
+																															"name": {
+																																"value": "发送 (Ctrl+Enter)"
+																															},
+																															"index": {
+																																"value": "1",
+																																"excluded": true
+																															}
+																														},
+																														"childControls": [
+																															{
+																																"identifier": {
+																																	"accessKey": {
+																																		"excluded": true
+																																	},
+																																	"tag": {
+																																		"value": "",
+																																		"excluded": true
+																																	},
+																																	"role": {
+																																		"value": "text"
+																																	},
+																																	"isDirectChild": {
+																																		"value": "False",
+																																		"excluded": true
+																																	},
+																																	"className": {
+																																		"value": "Chrome_WidgetWin_0"
+																																	},
+																																	"controlMetaType": "IA",
+																																	"name": {
+																																		"value": "发送 (Ctrl+Enter)"
+																																	}
+																																},
+																																"childControls": [],
+																																"excluded": true
+																															}
+																														],
+																														"excluded": false
+																													}
+																												],
+																												"excluded": false
+																											}
+																										],
+																										"excluded": false
+																									}
+																								],
+																								"excluded": false
+																							}
+																						],
+																						"excluded": false
+																					}
+																				],
+																				"excluded": false
+																			}
+																		],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				]
+			}
+		}
+	]
+}
